@@ -125,6 +125,12 @@ flowchart LR
 - **Over 1,100 automated tests** (at last count) pin the privacy wording, the "honest numbers" rules for finance answers, and the routing. A security audit was run against the live systems, with findings fixed or logged.
 - **Built with Claude Code** in a loop: a short written design, a task plan, code written against tests, an independent review, then an honest changelog that says what was not verified. What did not work: a "remove saved chats" action took three review rounds, each finding a new data-loss case, so I removed the feature rather than patch it a fourth time.
 
+## How it evolved
+
+<img src="assets/evolution-timeline.svg" width="100%" alt="Timeline: first commit on 18 October 2026 with an Expo scaffold, a switch to native SwiftUI, a first iPhone run on 19 October, a focus pass on 22 October, and external testing to be decided.">
+
+The repo's first commit was an Expo / React Native scaffold, which I replaced with a native SwiftUI iPhone app the same day. The name changed four times along the way: Product Brain, Hero EQ, PocketPM, then Hero EQ again.
+
 ## Roadmap and status
 
 <img src="assets/status-board.svg" width="100%" alt="Status board in four columns: built, tested here, not verified, and not started. Nothing has been tested by external users.">
