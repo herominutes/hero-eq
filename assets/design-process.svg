@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Triple Diamond design process mapped to the Hero EQ work</title>
+<desc id="d">Three diamonds in a row. Diamond 1, problem space: Discover then Define, done using public evidence. Diamond 2, solution space: Develop then Deliver, done in internal builds. Diamond 3, impact in the real world: Launch then Learn, drawn dashed because it has not started.</desc>
+<rect width="1200" height="480" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">Design process: Triple Diamond, mapped to the real work</text>
+<text x="210" y="86" text-anchor="middle" font-size="16" font-weight="700" fill="#60a5fa">1  Problem space</text>
+<text x="210" y="107" text-anchor="middle" font-size="13" fill="#cbd5e1">Done, on public evidence</text>
+<path d="M40 215 L210 130 L380 215 L210 300 Z" fill="#1e3a8a" stroke="#60a5fa" stroke-width="2.5"/>
+<line x1="210" y1="140" x2="210" y2="290" stroke="#60a5fa" stroke-width="1" stroke-dasharray="3 5" opacity="0.7"/>
+<text x="125" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Discover</text>
+<text x="125" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#bfdbfe">diverge</text>
+<text x="295" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Define</text>
+<text x="295" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#bfdbfe">converge</text>
+<text x="125" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="125" dy="0">Public-evidence study;</tspan><tspan x="125" dy="17">narrowed who it is for</tspan></text>
+<text x="295" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="295" dy="0">Problem statement;</tspan><tspan x="295" dy="17">three-question</tspan><tspan x="295" dy="17">focus filter</tspan></text>
+<text x="600" y="86" text-anchor="middle" font-size="16" font-weight="700" fill="#4ade80">2  Solution space</text>
+<text x="600" y="107" text-anchor="middle" font-size="13" fill="#cbd5e1">Done, in internal builds</text>
+<path d="M430 215 L600 130 L770 215 L600 300 Z" fill="#14532d" stroke="#4ade80" stroke-width="2.5"/>
+<line x1="600" y1="140" x2="600" y2="290" stroke="#4ade80" stroke-width="1" stroke-dasharray="3 5" opacity="0.7"/>
+<text x="515" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Develop</text>
+<text x="515" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#bbf7d0">diverge</text>
+<text x="685" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Deliver</text>
+<text x="685" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#bbf7d0">converge</text>
+<text x="515" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="515" dy="0">Ideas through six lenses,</tspan><tspan x="515" dy="17">blind judging,</tspan><tspan x="515" dy="17">red team</tspan></text>
+<text x="685" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="685" dy="0">Spec, plan, tests;</tspan><tspan x="685" dy="17">internal TestFlight</tspan><tspan x="685" dy="17">builds</tspan></text>
+<text x="990" y="86" text-anchor="middle" font-size="16" font-weight="700" fill="#fbbf24">3  Impact in the real world</text>
+<text x="990" y="107" text-anchor="middle" font-size="13" fill="#cbd5e1">NEXT: not started</text>
+<path d="M820 215 L990 130 L1160 215 L990 300 Z" fill="#0f172a" stroke="#fbbf24" stroke-width="2.5" stroke-dasharray="9 7"/>
+<line x1="990" y1="140" x2="990" y2="290" stroke="#fbbf24" stroke-width="1" stroke-dasharray="3 5" opacity="0.7"/>
+<text x="905" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Launch</text>
+<text x="905" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#fde68a">diverge</text>
+<text x="1075" y="216" text-anchor="middle" font-size="17" font-weight="700" fill="#f8fafc">Learn</text>
+<text x="1075" y="235" text-anchor="middle" font-size="12" font-style="italic" fill="#fde68a">converge</text>
+<text x="905" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="905" dy="0">Public release</tspan><tspan x="905" dy="17">to real users</tspan><tspan x="905" dy="17">(not started)</tspan></text>
+<text x="1075" y="328" text-anchor="middle" font-size="13.5" fill="#e2e8f0"><tspan x="1075" dy="0">Reviews, interviews,</tspan><tspan x="1075" dy="17">demand tests</tspan><tspan x="1075" dy="17">(not started)</tspan></text>
+<path d="M397 205 L413 215 L397 225" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M787 205 L803 215 L787 225" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="60" y="402" width="26" height="14" rx="3" fill="#1e3a8a" stroke="#60a5fa" stroke-width="2"/><text x="96" y="414" font-size="13" fill="#e2e8f0">Done: public evidence and internal builds</text>
+<rect x="470" y="402" width="26" height="14" rx="3" fill="#0f172a" stroke="#fbbf24" stroke-width="2" stroke-dasharray="5 4"/><text x="506" y="414" font-size="13" fill="#e2e8f0">Not started: no real-user research or validation yet</text>
+<text x="600" y="448" text-anchor="middle" font-size="13" fill="#94a3b8">Each diamond opens up options (diverge, the widest point), then narrows to one decision (converge).</text>
+<text x="600" y="468" text-anchor="middle" font-size="12" fill="#94a3b8">Diamond 1 rests on public posts and reviews, not interviews with product leaders.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 413" width="1200" height="413" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Status board</title>
+<desc id="d">Four columns. Built: capture, ask, projects and launch gates, documents, onboarding. Tested here: automated tests, QA passes, security audit, internal builds with one user. Not verified: sign-in from a fresh install, Face ID, camera and microphone, real third-party accounts, council mode, VoiceOver. Not started: external testers, demand tests, App Store launch, final prices, encrypted backup in release builds.</desc>
+<rect width="1200" height="413" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">Honest status board: prototype, internal builds only</text>
+<rect x="45" y="84" width="255" height="273" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="61" y="114" font-size="16" font-weight="700" fill="#60a5fa">Built</text>
+<line x1="61" y1="126" x2="284" y2="126" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="61" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Capture: voice, photo,</tspan><tspan x="61" dy="17">  interview, note</tspan></text>
+<text x="61" y="183" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Ask: 12 specialists, three</tspan><tspan x="61" dy="17">  doors</tspan></text>
+<text x="61" y="226" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Projects, KPIs and launch</tspan><tspan x="61" dy="17">  gates</tspan></text>
+<text x="61" y="269" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Documents used as context</tspan></text>
+<text x="61" y="295" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Onboarding and sign-in</tspan><tspan x="61" dy="17">  screens</tspan></text>
+<rect x="330" y="84" width="255" height="273" rx="12" fill="#111c33" stroke="#4ade80" stroke-width="2"/>
+<text x="346" y="114" font-size="16" font-weight="700" fill="#4ade80">Tested here</text>
+<line x1="346" y1="126" x2="569" y2="126" stroke="#4ade80" stroke-width="1" opacity="0.5"/>
+<text x="346" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Over 1,100 automated tests</tspan></text>
+<text x="346" y="166" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• QA passes and hand smoke</tspan><tspan x="346" dy="17">  tests</tspan></text>
+<text x="346" y="209" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Security audit of the live</tspan><tspan x="346" dy="17">  systems</tspan></text>
+<text x="346" y="252" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Internal builds on my own</tspan><tspan x="346" dy="17">  iPhone, one user</tspan></text>
+<rect x="615" y="84" width="255" height="273" rx="12" fill="#111c33" stroke="#fbbf24" stroke-width="2"/>
+<text x="631" y="114" font-size="16" font-weight="700" fill="#fbbf24">Not verified</text>
+<line x1="631" y1="126" x2="854" y2="126" stroke="#fbbf24" stroke-width="1" opacity="0.5"/>
+<text x="631" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Sign-in from a fresh install</tspan></text>
+<text x="631" y="166" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Face ID and the app lock</tspan></text>
+<text x="631" y="192" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Camera, microphone,</tspan><tspan x="631" dy="17">  interview recording</tspan></text>
+<text x="631" y="235" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Real Linear and Slack</tspan><tspan x="631" dy="17">  accounts</tspan></text>
+<text x="631" y="278" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Council mode with a real</tspan><tspan x="631" dy="17">  model</tspan></text>
+<text x="631" y="321" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• VoiceOver on a live screen</tspan></text>
+<rect x="900" y="84" width="255" height="273" rx="12" fill="#111c33" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="916" y="114" font-size="16" font-weight="700" fill="#94a3b8">Not started</text>
+<line x1="916" y1="126" x2="1139" y2="126" stroke="#94a3b8" stroke-width="1" opacity="0.5"/>
+<text x="916" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• External testers</tspan></text>
+<text x="916" y="166" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Demand tests (written, not</tspan><tspan x="916" dy="17">  run)</tspan></text>
+<text x="916" y="209" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• App Store launch</tspan></text>
+<text x="916" y="235" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Final prices (still</tspan><tspan x="916" dy="17">  hypotheses)</tspan></text>
+<text x="916" y="278" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Encrypted backup in release</tspan><tspan x="916" dy="17">  builds</tspan></text>
+<text x="600" y="385" text-anchor="middle" font-size="13" fill="#94a3b8">Status as of late October 2026. No external testers, revenue or usage data exist.</text>
+</svg>

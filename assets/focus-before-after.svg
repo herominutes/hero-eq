@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Focus pass before and after</title>
+<desc id="d">Two grids of 27 circles. Before: all 27 specialists visible, 6 teams, 5 tabs. After: 12 specialists visible behind 3 doors and 4 tabs, with 15 shown as dashed hidden circles.</desc>
+<rect width="1200" height="440" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">The focus pass: 27 specialists became 12</text>
+<rect x="40" y="64" width="520" height="290" rx="12" fill="#111c33" stroke="#334155" stroke-width="1.5"/>
+<text x="300" y="94" text-anchor="middle" font-size="16" font-weight="700" fill="#f87171">Before: a platform</text>
+<circle cx="100" cy="140" r="16" fill="#f87171"/>
+<circle cx="150" cy="140" r="16" fill="#f87171"/>
+<circle cx="200" cy="140" r="16" fill="#f87171"/>
+<circle cx="250" cy="140" r="16" fill="#f87171"/>
+<circle cx="300" cy="140" r="16" fill="#f87171"/>
+<circle cx="350" cy="140" r="16" fill="#f87171"/>
+<circle cx="400" cy="140" r="16" fill="#f87171"/>
+<circle cx="450" cy="140" r="16" fill="#f87171"/>
+<circle cx="500" cy="140" r="16" fill="#f87171"/>
+<circle cx="100" cy="190" r="16" fill="#f87171"/>
+<circle cx="150" cy="190" r="16" fill="#f87171"/>
+<circle cx="200" cy="190" r="16" fill="#f87171"/>
+<circle cx="250" cy="190" r="16" fill="#f87171"/>
+<circle cx="300" cy="190" r="16" fill="#f87171"/>
+<circle cx="350" cy="190" r="16" fill="#f87171"/>
+<circle cx="400" cy="190" r="16" fill="#f87171"/>
+<circle cx="450" cy="190" r="16" fill="#f87171"/>
+<circle cx="500" cy="190" r="16" fill="#f87171"/>
+<circle cx="100" cy="240" r="16" fill="#f87171"/>
+<circle cx="150" cy="240" r="16" fill="#f87171"/>
+<circle cx="200" cy="240" r="16" fill="#f87171"/>
+<circle cx="250" cy="240" r="16" fill="#f87171"/>
+<circle cx="300" cy="240" r="16" fill="#f87171"/>
+<circle cx="350" cy="240" r="16" fill="#f87171"/>
+<circle cx="400" cy="240" r="16" fill="#f87171"/>
+<circle cx="450" cy="240" r="16" fill="#f87171"/>
+<circle cx="500" cy="240" r="16" fill="#f87171"/>
+<text x="300" y="300" text-anchor="middle" font-size="14" fill="#e2e8f0">27 specialists in 6 teams</text>
+<text x="300" y="322" text-anchor="middle" font-size="14" fill="#e2e8f0">5 tabs, about a dozen settings sections</text>
+<rect x="640" y="64" width="520" height="290" rx="12" fill="#111c33" stroke="#334155" stroke-width="1.5"/>
+<text x="900" y="94" text-anchor="middle" font-size="16" font-weight="700" fill="#4ade80">After: one loop</text>
+<circle cx="700" cy="140" r="16" fill="#4ade80"/>
+<circle cx="750" cy="140" r="16" fill="#4ade80"/>
+<circle cx="800" cy="140" r="16" fill="#4ade80"/>
+<circle cx="850" cy="140" r="16" fill="#4ade80"/>
+<circle cx="900" cy="140" r="16" fill="#4ade80"/>
+<circle cx="950" cy="140" r="16" fill="#4ade80"/>
+<circle cx="1000" cy="140" r="16" fill="#4ade80"/>
+<circle cx="1050" cy="140" r="16" fill="#4ade80"/>
+<circle cx="1100" cy="140" r="16" fill="#4ade80"/>
+<circle cx="700" cy="190" r="16" fill="#4ade80"/>
+<circle cx="750" cy="190" r="16" fill="#4ade80"/>
+<circle cx="800" cy="190" r="16" fill="#4ade80"/>
+<circle cx="850" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="900" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="950" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1000" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1050" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1100" cy="190" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="700" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="750" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="800" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="850" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="900" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="950" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1000" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1050" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="1100" cy="240" r="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="900" y="300" text-anchor="middle" font-size="14" fill="#e2e8f0">12 specialists behind 3 doors</text>
+<text x="900" y="322" text-anchor="middle" font-size="14" fill="#e2e8f0">4 tabs, settings in 4 groups</text>
+<path d="M582 209 L618 209 M606 197 L618 209 L606 221" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="392" text-anchor="middle" font-size="14" fill="#e2e8f0">Filled circle = visible. Dashed circle = hidden, never deleted.</text>
+<text x="600" y="414" text-anchor="middle" font-size="13" fill="#94a3b8">The other 15 specialists and 6 teams stay in the app behind one switch, and older chats still open.</text>
+</svg>

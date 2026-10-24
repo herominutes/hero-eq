@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 467" width="1200" height="467" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Privacy at a glance</title>
+<desc id="d">Four cards. Stays on your iPhone: decisions, chats, projects, documents, keys. Sent only when you ask: your question, project brief and chosen passages; documents and pulled updates show a preview first. What our server sees: sign-in, request counts and token totals, no stored conversations. Never: our AI key in the app, analytics, interview audio leaving the phone, background sending.</desc>
+<rect width="1200" height="467" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">Privacy at a glance: where your work goes</text>
+<rect x="45" y="84" width="255" height="307" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="61" y="114" font-size="16" font-weight="700" fill="#60a5fa">Stays on your iPhone</text>
+<line x1="61" y1="126" x2="284" y2="126" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="61" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Decisions, chats, projects,</tspan><tspan x="61" dy="17">  KPIs</tspan></text>
+<text x="61" y="183" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Documents, read on the phone</tspan></text>
+<text x="61" y="209" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Launch checklists</tspan></text>
+<text x="61" y="235" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Your AI keys, in the</tspan><tspan x="61" dy="17">  Keychain</tspan></text>
+<text x="61" y="278" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Pulled Linear and Slack</tspan><tspan x="61" dy="17">  updates, kept for days, not</tspan><tspan x="61" dy="17">  forever</tspan></text>
+<text x="61" y="338" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="61" dy="0">• Optional Face ID or passcode</tspan><tspan x="61" dy="17">  lock</tspan></text>
+<rect x="330" y="84" width="255" height="307" rx="12" fill="#111c33" stroke="#4ade80" stroke-width="2"/>
+<text x="346" y="114" font-size="16" font-weight="700" fill="#4ade80">Sent only when you ask</text>
+<line x1="346" y1="126" x2="569" y2="126" stroke="#4ade80" stroke-width="1" opacity="0.5"/>
+<text x="346" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Your question, the project</tspan><tspan x="346" dy="17">  brief and chosen document</tspan><tspan x="346" dy="17">  passages</tspan></text>
+<text x="346" y="200" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Documents and pulled updates</tspan><tspan x="346" dy="17">  show a preview first, naming</tspan><tspan x="346" dy="17">  which AI reads them</tspan></text>
+<text x="346" y="260" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Pulled updates go only when</tspan><tspan x="346" dy="17">  you tap Summarize</tspan></text>
+<text x="346" y="303" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="346" dy="0">• Voice notes: only if you add</tspan><tspan x="346" dy="17">  your own transcription key</tspan></text>
+<rect x="615" y="84" width="255" height="307" rx="12" fill="#111c33" stroke="#c4b5fd" stroke-width="2"/>
+<text x="631" y="114" font-size="16" font-weight="700" fill="#c4b5fd">What our server sees</text>
+<line x1="631" y1="126" x2="854" y2="126" stroke="#c4b5fd" stroke-width="1" opacity="0.5"/>
+<text x="631" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• That you signed in with</tspan><tspan x="631" dy="17">  Apple</tspan></text>
+<text x="631" y="183" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Request counts and token</tspan><tspan x="631" dy="17">  totals</tspan></text>
+<text x="631" y="226" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• Conversations pass through</tspan><tspan x="631" dy="17">  to the AI and are not stored</tspan></text>
+<text x="631" y="269" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="631" dy="0">• It holds our AI key, so the</tspan><tspan x="631" dy="17">  app never does</tspan></text>
+<rect x="900" y="84" width="255" height="307" rx="12" fill="#111c33" stroke="#fbbf24" stroke-width="2"/>
+<text x="916" y="114" font-size="16" font-weight="700" fill="#fbbf24">Never</text>
+<line x1="916" y1="126" x2="1139" y2="126" stroke="#fbbf24" stroke-width="1" opacity="0.5"/>
+<text x="916" y="140" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Our AI key inside the app</tspan></text>
+<text x="916" y="166" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Analytics or tracking code</tspan></text>
+<text x="916" y="192" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Interview audio leaving the</tspan><tspan x="916" dy="17">  phone</tspan></text>
+<text x="916" y="235" font-size="13.5" fill="#e2e8f0" xml:space="preserve"><tspan x="916" dy="0">• Background sending of your</tspan><tspan x="916" dy="17">  work to an AI</tspan></text>
+<text x="600" y="419" text-anchor="middle" font-size="13" fill="#94a3b8">Encrypted backup is designed but on in debug builds only. Until it ships, none of your work is stored on the server.</text>
+<text x="600" y="439" text-anchor="middle" font-size="13" fill="#94a3b8">Prototype: this describes the current internal build, not a launched product.</text>
+</svg>
