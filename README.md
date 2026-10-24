@@ -4,7 +4,13 @@
 
 *Formerly PocketPM. Built by [Jamil H. (Hero Minutes)](https://github.com/herominutes). Waitlist page: [pocketpm.dev](https://www.pocketpm.dev) (it still shows the old name until just before launch).*
 
-> **Status: prototype, not on the App Store.** The app runs on my own iPhone through internal TestFlight builds. I am the only user so far. There are no external testers, no revenue and no usage data, and nothing here claims otherwise. The code is private; this repo holds the thinking, not the code.
+> **Status: prototype, not on the App Store.** The app runs on my own iPhone through internal TestFlight builds. I am the only user so far. There are no external testers, no revenue and no usage data, and nothing here claims otherwise. The code is private; this repo holds the thinking, not the code. **Want to try it?** TestFlight access is available on request: message me on [LinkedIn](https://www.linkedin.com/in/jambuilds).
+
+**The 60-second version**
+- **What:** a private, iPhone-first AI copilot for product leaders. A prototype.
+- **Why it is worth a look:** a review found my first build was a platform, not a product, so I cut it from 27 specialists to 12 and cut claims the build could not back.
+- **What is missing:** real users. No external testers yet; diamond 3 of the design process is next.
+- **Try it:** TestFlight access on request, via [LinkedIn](https://www.linkedin.com/in/jambuilds).
 
 ---
 
@@ -30,6 +36,16 @@ flowchart LR
 - **Projects** hold a short brief, KPIs, documents used as context, and updates pulled from Linear and Slack.
 - **Launch gates** give a go, conditional go or no-go checklist before a pilot or release.
 - **Privacy by design:** data stays on the phone by default, our AI key is never in the app (people can add their own, kept in the Keychain), and documents and pulled updates go to an AI only after the person sees a preview of what will be sent.
+
+### What it looks like
+
+<p>
+  <img src="assets/app-home.webp" width="220" alt="Home screen with three capture options and a Projects strip">
+  <img src="assets/app-answer.webp" width="220" alt="A prioritisation answer with scores and next steps">
+  <img src="assets/app-projects.webp" width="220" alt="A project page with a KPI, work counts and recent updates">
+</p>
+
+*Screenshots are from an **older build** with made-up demo data (a fictional "Notes app"). The numbers in them are invented to show the layout. They are not results, and no real user data appears.*
 
 ## Design approach
 
@@ -132,6 +148,6 @@ flowchart LR
 
 ## What is not here
 
-The app's source code, backend and database design, account and infrastructure details, pricing, app screenshots (the only images are diagrams and charts I drew), and the raw research data. No testers, users or customers appear in this repo.
+The app's source code, backend and database design, account and infrastructure details, pricing, real-user data (the three screenshots use made-up demo data; the other images are diagrams I drew), and the raw research data. No testers, users or customers appear in this repo.
 
 *© 2026 Jamil H. (Hero Minutes). Shared for portfolio review; all rights reserved. There is no license file because this repo holds a write-up, not software.*
