@@ -9,6 +9,8 @@
 **The 60-second version**
 - **What:** a private, iPhone-first AI copilot for product leaders. A prototype.
 - **Why it is worth a look:** a review found my first build was a platform, not a product, so I cut it from 27 specialists to 12 and cut claims the build could not back.
+- **My role:** solo entrepreneur and AI builder, building with Claude Code.
+- **Timeline:** the repo's first commit is 18 October 2026, and the most recent work is dated 23 October 2026.
 - **What is missing:** real users. No external testers yet; diamond 3 of the design process is next.
 - **Try it:** TestFlight access on request, via [LinkedIn](https://www.linkedin.com/in/jambuilds).
 
