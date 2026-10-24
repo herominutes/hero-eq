@@ -2,9 +2,9 @@
 
 **A private, iPhone-first AI copilot for product leaders. This page is the case study: the problem, how I decided what to build, what I learned, and how it was built.**
 
-*Formerly PocketPM. Built by [Jamil H. (Hero Minutes)](https://github.com/herominutes). Waitlist page: [pocketpm.dev](https://www.pocketpm.dev) (it still shows the old name until just before launch).*
+*Formerly PocketPM. Built by [Jamil H. (Hero Minutes)](https://github.com/herominutes). Site: [pocketpm.dev](https://www.pocketpm.dev) (an earlier landing page that still shows the old name; it is being updated).*
 
-> **Status: prototype, not on the App Store.** The app runs on my own iPhone through internal TestFlight builds. I am the only user so far. There are no external testers, no revenue and no usage data, and nothing here claims otherwise. The code is private; this repo holds the thinking, not the code. **Want to try it?** TestFlight access is available on request: message me on [LinkedIn](https://www.linkedin.com/in/jambuilds).
+> **Status: prototype, not on the App Store.** The app runs on my own iPhone through internal TestFlight builds. I am the only user so far. There are no external testers, no revenue and no usage data, and nothing here claims otherwise. The code is private; this repo holds the thinking, not the code. **TestFlight: internal testing only. External testing TBD.**
 
 **The 60-second version**
 - **What:** a private, iPhone-first AI copilot for product leaders. A prototype.
@@ -12,7 +12,7 @@
 - **My role:** solo entrepreneur and AI builder, building with Claude Code.
 - **Timeline:** the repo's first commit is 18 October 2026, and the most recent work is dated 23 October 2026.
 - **What is missing:** real users. No external testers yet; diamond 3 of the design process is next.
-- **Try it:** TestFlight access on request, via [LinkedIn](https://www.linkedin.com/in/jambuilds).
+- **Try it:** TestFlight, internal testing only. External testing TBD.
 
 ---
 
